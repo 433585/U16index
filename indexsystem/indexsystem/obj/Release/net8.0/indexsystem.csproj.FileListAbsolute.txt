@@ -1,0 +1,15 @@
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\bin\Release\net8.0\indexsystem.exe
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\bin\Release\net8.0\indexsystem.deps.json
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\bin\Release\net8.0\indexsystem.runtimeconfig.json
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\bin\Release\net8.0\indexsystem.dll
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\bin\Release\net8.0\indexsystem.pdb
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.AssemblyInfoInputs.cache
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.AssemblyInfo.cs
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.csproj.CoreCompileInputs.cache
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.dll
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\refint\indexsystem.dll
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.pdb
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.genruntimeconfig.cache
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\ref\indexsystem.dll
+C:\Users\Ella Shihadeh\source\repos\indexsystem\indexsystem\obj\Release\net8.0\indexsystem.sourcelink.json
