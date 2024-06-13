@@ -1,1 +1,1 @@
-The path to the hashed books is [indexsystem/indexsystem/bin/Release/net8.0]()
+The path to find the hashed books and the .exe for the application is [indexsystem/indexsystem/bin/Release/net8.0](https://github.com/433585/U16index/tree/main/indexsystem/indexsystem/bin/Release/net8.0)
